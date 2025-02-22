@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,23 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.main {
+  padding: 5%;
+  text-align: center;
+}
+
+input {
+  padding: 1%;
+  width: 50%;
+  margin: 1% 2%;
+}
+
+button {
+  font-weight: bold;
+  background: red;
+  border: none;
+  color: white;
+  padding: 1%;
 }
